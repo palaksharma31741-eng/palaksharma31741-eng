@@ -50,7 +50,7 @@ A student-focused personal finance website designed to help users track income, 
 
 - 💻 GitHub: [@palaksharma31741-eng](https://github.com/palaksharma31741-eng)
 - 💼 LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/palak-sharma-058712382)
-- 📧 Email: your-palaksharma31741@gmail.com
+- 📧 Email: palaksharma31741@gmail.com
 
 ### 🌷 Pronouns
 
